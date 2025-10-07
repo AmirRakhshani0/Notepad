@@ -1,11 +1,3 @@
-🚀 Live Demo
-
-🔗 مشاهده وب‌سایت اجرا شده
-
-`https://web-project-mcxw.vercel.app/`
-
----
-
 🌐 Full-Stack Web Project — React + Vite & Laravel
 
 A blazing-fast full-stack web application built with React + Vite on the frontend and Laravel (PHP) on the backend.  
@@ -43,7 +35,7 @@ This project was created to:
 1. Clone the repository
 
 `bash
-git clone https://github.com/mahdiklidari190/Web-project.git
+git clone https://github.com/AmirRakhshani0/Web-project.git
 cd Web-project
 `
 
@@ -126,5 +118,6 @@ This project is open-source and available under the MIT License.
 
 🧠 Author
 
-Developed by Mahdi Klidari  
-GitHub: @mahdiklidari190
+Developed by **AmirRakhshani**  
+GitHub: [AmirRakhshani0](https://github.com/AmirRakhshani0)  
+Pronouns: he/him
